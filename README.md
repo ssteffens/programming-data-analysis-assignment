@@ -7,9 +7,9 @@ This repository contains a Jupyter notebook outlining the use and functionalitie
 <br>
 
 ## How to run the Jupyter notebook:
-To be able to run the Notebook Python needs to be installed. 
+To be able to run the Notebook, Python needs to be installed. 
 
-Note that the code in this notebook uses some content which might not be compatible with NumPy versions older than 1.19. The notebook contains a check which allows the user to verify the installed version of NumPy (see section 1.1).
+Note that the code in this notebook uses some content which might not be compatible with NumPy versions older than 1.17. The notebook contains a check which allows the user to verify the installed version of NumPy (see section 1.1).
 
 1. Download and install [Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
 2. Access the command line interface (for example [Cmder](https://cmder.net/)] or using the  Windows Command Prompt)
